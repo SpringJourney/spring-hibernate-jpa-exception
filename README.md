@@ -1,0 +1,1 @@
+# spring-hibernate-jpa-exception
